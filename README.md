@@ -1,4 +1,4 @@
-# EXERCÍCIOS DO E WHILE
+# EXERCÍCIOS DO E WHILE aula de lógica e programação
 _Vicenzo Varandas_
 
 ## 1. Conversor de Unidades
